@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 - 🥅 2021 Goals: receive my first clients on my startup
 - ⚡ Fun fact: I love to play badminton and learn new recipes!
 
-### Spotify Playing 🎧
-
-[<img src="https://nicolascandelaria.vercel.app/api/spotify-playing" alt="NicolasC Spotify Playing" width="350" />](https://open.spotify.com/user/21pg6azwpxgzggnhuawqzuygy)
 
 ### Connect with me:
 
