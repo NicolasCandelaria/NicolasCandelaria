@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-nicolascandelaria.vercel.app/api/spotify-playing" alt="NicolasC Spotify Playing" width="350" />](https://open.spotify.com/user/21pg6azwpxgzggnhuawqzuygy)
+[<img src="https://nicolascandelaria.vercel.app/api/spotify-playing" alt="NicolasC Spotify Playing" width="350" />](https://open.spotify.com/user/21pg6azwpxgzggnhuawqzuygy)
 
 ### Connect with me:
 
