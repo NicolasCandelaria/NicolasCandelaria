@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning UI/UX design and web development
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
 - 🥅 2021 Goals: receive my first clients on my startup
-- ⚡ Fun fact: I love to play badminton and go hiking!
 
 
 ### Connect with me:
