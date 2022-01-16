@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I just launched my first website: [erthmarket][course]!
 - 🌱 I’m currently learning UI/UX design and web development
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
-- 🥅 2021 Goals: receive my first clients on my startup
+- 🥅 2022 Goals: grow my design [community][community] and consistently write articles on [Medium][article]
 
 
 ### Connect with me:
@@ -46,3 +46,8 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/CSnickolas
 [instagram]: https://www.instagram.com/n.candelaria1/
 [linkedin]: https://www.linkedin.com/in/nicolas-candelaria-815833199/
+[community]: https://discord.gg/CQVfgaVa
+[article]: https://medium.com/@nicolascandelaria
+
+
+
