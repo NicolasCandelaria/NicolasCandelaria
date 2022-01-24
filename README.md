@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I just launched my first website: [erthmarket][course]!
 - 🌱 I’m currently learning UI/UX design and web development
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
-- 🥅 2022 Goals: grow my design [community][community] and consistently write articles on [Medium][article]
+- 🥅 2022 Goals: Consistently write articles on [Medium][article]
 
 
 ### Connect with me:
