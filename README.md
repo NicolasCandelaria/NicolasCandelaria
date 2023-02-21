@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Nicolas Candelaria 👋
 
 
-- 🔭 I just launched my first website: [Chakra][course]!
+- 🔭 I just launched my first website: [:DD][course]!
 - 🌱 I’m currently learning UI/UX design and web development
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
-- 🥅 2022 Goals: Consistently write articles on [Medium][article]
+- 🥅 2023 Goals: Consistently write articles on [Medium][article]
 
 
 ### Connect with me:
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [website]: http://nicolascandelaria.ca/
-[course]: https://nicolascandelaria.ca/pdfs/Chakra%20case%20study.pdf
+[course]: https://nicolascandelaria.ca
 [twitter]: https://twitter.com/CSnickolas
 [instagram]: https://www.instagram.com/n.candelaria1/
 [linkedin]: https://www.linkedin.com/in/nicolas-candelaria-815833199/
