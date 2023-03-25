@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 [website]: http://nicolascandelaria.ca/
 [course]: https://twitter.com/OnePathStudios
-[twitter]: https://twitter.com/CSnickolas
+[twitter]: https://twitter.com/OnePathStudios
 [instagram]: https://www.instagram.com/n.candelaria1/
 [linkedin]: https://www.linkedin.com/in/nicolas-candelaria-815833199/
 [community]: https://discord.gg/CQVfgaVa
