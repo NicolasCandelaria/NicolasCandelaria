@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Taking Design Commissions: [Twitter][course]!
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
-- 🥅 2023 Goals: Consistently write articles on [Medium][article]
+- 🥅 2024 Goals: Grow my design business https://www.behance.net/OnePathStudios
 
 
 ### Connect with me:
