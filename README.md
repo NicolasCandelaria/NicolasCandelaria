@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-[website]: http://nicolascandelaria.ca/
+[website]: http://nicolascandelaria.com/
 [course]: https://twitter.com/OnePathStudios
 [twitter]: https://twitter.com/OnePathStudios
 [instagram]: https://www.instagram.com/n.candelaria1/
