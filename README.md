@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Nicolas Candelaria 👋
 
 
-- 🔭 Taking Design Commissions: [Twitter][course]!
+- 🔭 Full portfolio: [Here][course]!
 - 👯 I’m looking to collaborate on UI/UX redesigns or rebrands
 - 🥅 2026 Goals: Full Planche
 
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [website]: http://nicolascandelaria.framer.ai
-[course]: https://twitter.com/OnePathStudios
+[course]: https://nicolascandelaria.github.io
 [twitter]: https://twitter.com/OnePathStudios
 [instagram]: https://www.instagram.com/n.candelaria1/
 [linkedin]: https://www.linkedin.com/in/nicolas-candelaria-815833199/
