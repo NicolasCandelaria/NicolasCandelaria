@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-[website]: http://nicolascandelaria.framer.ai
+[website]: https://nicolascandelaria.github.io
 [course]: https://nicolascandelaria.github.io
 [twitter]: https://twitter.com/OnePathStudios
 [instagram]: https://www.instagram.com/n.candelaria1/
