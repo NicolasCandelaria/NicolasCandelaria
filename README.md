@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 
 - 🔭 Full portfolio: [Here][course]!
-- 👯 I’m down to chat, hit me up anywhere
 - 🥅 2026 Goals: Full Planche
 
 
